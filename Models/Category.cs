@@ -9,13 +9,19 @@ public class Category {
     public Category() {
     }
 
-    public void Id;
+    //public void Id;
 
-    public void Name;
+    //public void Name;
 
-    public void Description;
+    //public void Description;
 
-    public void ToolId;
+    //public void ToolId;
+
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Description { get; set; }
+    
+    public virtual ICollection<Tool> Tools { get; set; }
 
     public void AddCategory() {
         // TODO implement here
