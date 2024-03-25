@@ -1,8 +1,8 @@
 namespace ToolsManagerApp
 {
-    public partial class Form1 : Form
+    public partial class DashboardForm : Form
     {
-        public Form1()
+        public DashboardForm()
         {
             InitializeComponent();
         }
