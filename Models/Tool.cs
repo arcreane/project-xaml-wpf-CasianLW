@@ -9,17 +9,27 @@ public class Tool {
     public Tool() {
     }
 
-    public void Id;
 
-    public void Name;
 
-    public void CategoryId;
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public int CategoryId { get; set; }
+    public StatusEnum Status { get; set; }
 
-    public void Status;
+    public virtual Category Category { get; set; }
 
-    public void UserAssignedId;
 
-    public string QRImage;
+    //public void Id;
+
+    //public void Name;
+
+    //public void CategoryId;
+
+    //public void Status;
+
+    //public void UserAssignedId;
+
+    //public string QRImage;
 
     /// <summary>
     /// @param Parameter1 
