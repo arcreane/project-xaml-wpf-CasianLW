@@ -6,18 +6,25 @@ using System.Text;
 
 public class User : Inventorry {
 
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public RoleEnum Role { get; set; } 
+    public string Email { get; set; }
+    public string Password { get; set; }
+
     public User() {
+
     }
 
-    public void Id;
+    //public void Id;
 
-    public string Name;
+    //public string Name;
 
-    public RoleEnum Role;
+    //public RoleEnum Role;
 
-    public void Email;
+    //public void Email;
 
-    private void Password;
+    //private void Password;
 
     public void Authenticate() {
         // TODO implement here
