@@ -1,0 +1,16 @@
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\bin\Debug\net6.0-windows\ToolsManagerApp.exe
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\bin\Debug\net6.0-windows\ToolsManagerApp.deps.json
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\bin\Debug\net6.0-windows\ToolsManagerApp.runtimeconfig.json
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\bin\Debug\net6.0-windows\ToolsManagerApp.dll
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\bin\Debug\net6.0-windows\ToolsManagerApp.pdb
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.Form1.resources
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.csproj.GenerateResource.cache
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.AssemblyInfoInputs.cache
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.AssemblyInfo.cs
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.dll
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\refint\ToolsManagerApp.dll
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.pdb
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ToolsManagerApp.genruntimeconfig.cache
+C:\Users\33783\source\repos\project-xaml-wpf-CasianLW\obj\Debug\net6.0-windows\ref\ToolsManagerApp.dll
