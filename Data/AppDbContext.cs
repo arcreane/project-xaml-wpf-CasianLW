@@ -7,6 +7,11 @@ public class AppDbContext : DbContext
     {
     }
 
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //{
+    //    optionsBuilder.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+    //}
+
     public DbSet<User> Users { get; set; }
     public DbSet<Tool> Tools { get; set; }
     public DbSet<Category> Categories { get; set; }
